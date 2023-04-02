@@ -11,6 +11,7 @@ features:
   - keys
   - display
   - underglow
+  - encoder
 siblings:
   - lulu_left
   - lulu_right
